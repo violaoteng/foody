@@ -1,0 +1,2 @@
+protein="fish"
+print (protein)
